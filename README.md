@@ -8,8 +8,8 @@ Grab the project from GitHub and install Compass
 
 ### Get the project
 
-git clone https://github.com/ljfranklin/static-html-seed your-project-name
-cd your-project-name
+    git clone https://github.com/ljfranklin/static-html-seed your-project-name
+    cd your-project-name
 
 ### Install Ruby + Compass
 
