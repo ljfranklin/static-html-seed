@@ -1,0 +1,15 @@
+$font-stack:    Helvetica, sans-serif;
+$primary-color: #666;
+
+@import "../lib/bootstrap-sass-3.1.1/stylesheets/bootstrap";
+
+body {
+  font: 100% $font-stack;
+  color: $primary-color;
+  padding-top: 50px;
+}
+
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
